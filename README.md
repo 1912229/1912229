@@ -1,6 +1,7 @@
-- 👋 Hola soy David estudiante en murcia de un grado superior,
-- 👀 Estoy interesado en aprender informatica  
-- 🌱 I’m currently learning a desarrolar aplicaciones web
+- 👋 Hola soy David estudiante en murcia en el centro Centro Integral de Formación Profesional a
+ Distancia La Conservera
+- 👀 Estoy matriculado en una Formacion Porfesional de Grado Superior de Desarrolo de Aplicaciones Web
+- 🌱 I’m currently learning desarrollar aplicaciones web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
