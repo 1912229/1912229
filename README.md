@@ -1,4 +1,4 @@
-- 👋 Hola soy David estudiante en murcia en el centro Centro Integral de Formación Profesional a
+- 👋 Hola soy David estudiante en murcia en el Centro Integral de Formación Profesional a
  Distancia La Conservera
 - 👀 Estoy matriculado en una Formacion Porfesional de Grado Superior de Desarrolo de Aplicaciones Web
 - 🌱 I’m currently learning desarrollar aplicaciones web
